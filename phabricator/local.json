@@ -1,0 +1,7 @@
+{
+      "storage.default-namespace": "default",
+      "mysql.host": "%PHAB_DB_SERVER%",
+      "mysql.pass": "%PHAB_DB_PASSWD%",
+      "mysql.user": "root",
+      "pygments.enabled": true
+}
